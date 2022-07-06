@@ -1,0 +1,6 @@
+peon a
+manager c
+guard e
+employee b
+director f
+clerk d
